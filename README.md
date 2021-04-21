@@ -103,7 +103,7 @@ $ yarn -v
 
 ```
 
-- Para configurar, no bash digite os seguinte códigos:
+- Para configurar e rodar o projeto siga o passo a passo:
 
 ```bash
 #Clonar o repositório na sua pasta de preferência, abrindo seu terminal de preferência e rodando o comando:
