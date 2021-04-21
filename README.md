@@ -1,70 +1,141 @@
-# Getting Started with Create React App
+<h1 align=center>
+<img src="src/assets/img/background-image.jpeg" alt="Rick And Morty Imagem" width="150px"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+🚀 Projeto Rick And Morty ✔️ <br>
 
-In the project directory, you can run:
+<img src="https://camo.githubusercontent.com/a45bd10a7ea5a30b5665d9869b0ce1324fa90350/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d6163746976652d737563636573732e737667" alt="Status" data-canonical-src="https://img.shields.io/badge/status-active-success.svg" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667" alt="License" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width:100%;">
+</h1>
 
-### `yarn start`
+## 📑️ Índice
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [O projeto](#📝️-Sobre)
+- [Apresentação Gif](#🚀️-Apresentação-do-site)
+- [Como usar](#💾️-Como-baixar/testar-o-projeto)
+- [Contato](#-Desenvolvido-com-💙️-por)
+- [Licença](#-Licença)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+## 📝️ Sobre
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+<h4>
+O projeto trata-se de um desafio encontrado no Github através do link:
+ <a href="https://github.com/indigotech/taq-challenge" target="_blank">https://github.com/indigotech/taq-challenge</a>, onde é necessário criar uma aplicação React, (Detalhes dos desafios disponível no link mencionado acima).
+ Para criação da aplicação foi proposto a utilização da API disponível através do link:
+ <a href="https://rickandmortyapi.com/" target="_blank">https://rickandmortyapi.com/</a> Por questões do desafio proposto foi utilizada a API versão Graphql.
+</h4>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀️ Apresentação do site
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
+<h2>Como não havia um layout proposto, resolvi seguir o layout do site da própria API, ou seja, o meu desafio pessoal foi clonar o site da própria API, rs:</h2>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h2>Layout site da API:<h2>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<h3>
+<img src="src/assets/img/site-api-layout.png" alt="Imagem layout do site API">
+</h3>
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h2>Visualização - Desktop:<h2>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+<h3>
+<img src="src/assets/img/projeto-rick-and-morty-desktop.gif" alt="Gif visualização site desktop">
+</h3>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+<h2>Visualização - Responsivo:<h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+<h3>
+<img src="src/assets/img/projeto-rick-and-morty-responsivo.gif" alt="Gif visualização site responsivo">
+</h3>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+### 🚀️ Tecnologias utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+- ReactJS
+- Graphql
+- Axios
+- Styled-Components
+- API: <a href="https://rickandmortyapi.com/" target="_blank">https://rickandmortyapi.com/</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `yarn build` fails to minify
+### 💾️ Como baixar/testar o projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Você irá precisar instalar o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/pt-br/download/) + [Yarn](https://classic.yarnpkg.com/en/docs/install/) + [Visual Studio code](https://code.visualstudio.com/) ou seu editor de código preferido.
+
+---
+
+```bash
+# Versões mínimas ou superiores.
+$ node -v
+v12.19.0
+
+$ npm -v 
+6.14.8
+
+OU
+
+$ yarn -v 
+1.22.5
+
+```
+
+- Para configurar, no bash digite os seguinte códigos:
+
+```bash
+#Clonar o repositório na sua pasta de preferência, abrindo seu terminal de preferência e rodando o comando:
+$ git clone https://github.com/RicardoMejolaro/Projeto-Rick-And-Morty.git
+
+#Acessar e abrir a pasta que foi efetuada o clone:
+#Na pasta abrir projeto no VsCode ou no seu editor preferido:
+$ No seu editor, procurar a pasta com que foi inclusa com o clone, selecionar e abrir.
+
+#Abrir seu terminal de comando preferido via editor de código ou fora do editor, após acessar a pasta (no passo acima), acessar a pasta do projeto onde abrirá a branch master do repositório, com o comando:  
+$ cd rickandmorty
+
+#Com o terminal aberto rodar o comando
+$ npm install ou yarn install (para instalar as dependências necessárias)
+
+#Agora só rodar o projeto com o comando
+$ npm start ou yarn start
+
+#Pronto projeto abrirá em seu navegador padrão
+Agora é só testar em seu navegador!
+
+```
+---
+
+### Desenvolvido com 💙️ por
+
+***Ricardo Mejolaro*** 
+<br/> 
+<a href="https://www.linkedin.com/in/ricardo-mejolaro/">
+<img src="src/assets/img/linkedin.png">
+</a>
+
+### Licença
+
+Este projeto está licenciado sob a licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
